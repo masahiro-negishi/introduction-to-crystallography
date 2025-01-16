@@ -34,6 +34,7 @@ $0$ is the identity element, and the inverse element of the integer $a$ is $-a$.
 | $a^2b$ | $a^2b$ | $ab$ | $b$ | $a^2$ | $a$ | $1$ |
 
 ## 2-5
+
 $$
 \begin{aligned}
 &E,\\
@@ -42,4 +43,5 @@ $$
 &C_2^{(i)} \ (1 \le i \le 15).\\
 \end{aligned}
 $$
+
 It's a bit surprising that the combination of two rotations always results in another rotation, i.e., this set of 60 elements is closed.
