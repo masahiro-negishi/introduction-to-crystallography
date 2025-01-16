@@ -42,3 +42,16 @@ $V' = a' \times b' \times \sin(\gamma') \times c' = 1050[Å^3]$.
 $\frac{V'}{V} = 5$.
 Since the crystal itself does not change, the ratio of the numbers of lattice points is equal to the ratio of the volumes.
 Therefore, there are 5 lattice points in the new unit cell.
+
+## 1-3
+Note: My answers do not match those at the end of the book. I am not sure why.
+### (a)
+Using the fact that the edge of length $b$ is orthogonal to the other edges, the distance can be computed in the following way:
+$$
+\sqrt{(6.00 \times 0.1)^2 + (8.00 \times 0.21)^2 - 2(6.00 \times 0.1)(8.00 \times 0.21)\cos(65^\circ) + (7.00 \times 0.1)^2} \fallingdotseq 1.68[Å]
+$$
+
+### (b)
+$$
+\sqrt{(6.00 \times 0.1)^2 + (8.00 \times 0.456)^2 - 2(6.00 \times 0.1)(8.00 \times 0.456)\cos(65^\circ) + (7.00 \times 0.1)^2} \fallingdotseq 3.51[Å]
+$$
