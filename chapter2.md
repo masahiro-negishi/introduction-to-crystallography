@@ -28,7 +28,7 @@ $0$ is the identity element, and the inverse element of the integer $a$ is $-a$.
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | $1$ | $1$ | $a$ | $a^2$ | $b$ | $ab$ | $a^2b$ |
 | $a$ | $a$ | $a^2$ | $1$ | $ab$ | $a^2b$ | $b$ |
-| $a^2$ | $a^2$ | $1$ | $a$ | $a^2b$ | $b$ | $ ab$ |
+| $a^2$ | $a^2$ | $1$ | $a$ | $a^2b$ | $b$ | $ab$ |
 | $b$ | $b$ | $a^2b$ | $ab$ | $1$ | $a^2$| $a$ |
 | $ab$ | $ab$ | $b$ | $a^2b$ | $a$ | $1$ | $a^2$ |
 | $a^2b$ | $a^2b$ | $ab$ | $b$ | $a^2$ | $a$ | $1$ |
