@@ -77,9 +77,9 @@ $C_2HCl$: $C_{\infty v}$
 
 $C_3O_2$: $D_{\infty h}$
 
-$trans-CHFCHF$: $C_{2h}$
+$\mathrm{trans-}CHFCHF$: $C_{2h}$
 
-$cis-CHFCHF$: $C_{2v}$
+$\mathrm{cis-}CHFCHF$: $C_{2v}$
 
 $CH_2CF_2$: $C_{2v}$
 
@@ -113,9 +113,9 @@ $CrCl_6^{3-}$: $O_h$
 
 $CrCl_5Br^{3-}$: $C_{4v}$
 
-$trans-CrCl_4Br_2^{3-}$: $D_{4h}$
+$\mathrm{trans-}CrCl_4Br_2^{3-}$: $D_{4h}$
 
-$cis-CrCl_4Br_2^{3-}$: $C_{2v}$
+$\mathrm{cis-}CrCl_4Br_2^{3-}$: $C_{2v}$
 
 $CrCl_3Br_3^{3-}$: $C_{2v}$ or $C_{3v}$
 
