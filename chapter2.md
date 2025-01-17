@@ -45,3 +45,96 @@ $$
 $$
 
 It's a bit surprising that the combination of two rotations always results in another rotation, i.e., this set of 60 elements is closed.
+
+## Summary of point groups
+1 rotation axis: $C_n, C_{nh}, C_{nv}, S_n, C_s(C_{1h}, C_{1v}, S_{1}), C_i(S_2)$
+
+2 rotatin axes or more: $D_n, D_{nh}, D_{nd}$
+
+cubic: $T, T_h, T_d, O, O_h$
+
+icosahendal: $I, I_h$
+
+## 2-6
+### (a) cube
+$O_h$
+### (b) regular octahedron
+$O_h$
+### (c) regular tetrahedron
+$T_d$
+
+## 2-7
+1,2-Dichlorobenzene: $C_{2v}$
+
+1,3-Dichlorobenzene: $C_{2v}$
+
+1,4-Dichlorobenzene: $D_{2h}$
+
+## 2-8
+$C_2H_2$: $D_{\infty h}$
+
+$C_2HCl$: $C_{\infty v}$
+
+$C_3O_2$: $D_{\infty h}$
+
+$trans-CHFCHF$: $C_{2h}$
+
+$cis-CHFCHF$: $C_{2v}$
+
+$CH_2CF_2$: $C_{2v}$
+
+## 2-9
+$D_3$
+
+## 2-10
+$D_{4h}$
+
+## 2-11
+$SO_2F_2$: $C_{2v}$
+
+$SO_4^{2-}$: $T_d$
+
+$Zn(NH_3)_4^{2+}$: $T_d$
+
+$CFCl_3$: $C_{3v}$
+
+$CF_2Cl_2$: $C_{2v}$
+
+## 2-12
+$MoCl_5$: $D_{3h}$
+
+$Mo_2Cl_{10}$: $D_{2h}$
+
+## 2-13
+a crown-like structure
+
+## 2-14
+$CrCl_6^{3-}$: $O_h$
+
+$CrCl_5Br^{3-}$: $C_{4v}$
+
+$trans-CrCl_4Br_2^{3-}$: $D_{4h}$
+
+$cis-CrCl_4Br_2^{3-}$: $C_{2v}$
+
+$CrCl_3Br_3^{3-}$: $C_{2v}$ or $C_{3v}$
+
+## 2-15
+### (a)
+An equilateral triangle with C in the centre and Os at the corners
+
+### (b)
+A triangular pyramid
+
+## 2-16
+### (a)
+$D_{\infty h}$
+
+### (b)
+$D_{2h}$
+
+### (c)
+$C_{4v}$
+
+### (d)
+$D_{3h}$
