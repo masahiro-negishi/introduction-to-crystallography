@@ -67,11 +67,11 @@ $\frac{1}{d} = \frac{[(h^2 + k^2 + l^2)a^4\sin^2\alpha + 2(hl + hk + kl)a^4(\cos
 ## 3-10
 ![Ex 3-10, 3-11](figures/3-10-11.png)
 
-$8 \times 5 \times \sin(115^\circ) = d \times \sqrt{8^2 + 5^2 - 2 \times 8 \times 5 \times \cos 115^\circ}$より、$d \fallingdotseq 3.27[Å]$
+$8 \times 5 \times \sin(115^\circ) = d \times \sqrt{8^2 + 5^2 - 2 \times 8 \times 5 \times \cos 115^\circ}$ leads to $d \fallingdotseq 3.27[Å]$
 
 $d = [(\frac{h}{a\sin\beta})^2 + (\frac{l}{c\sin\beta})^2 - \frac{2hl(\cos\beta)}{ac\sin^2\beta}]^{-\frac{1}{2}} \fallingdotseq 3.27[Å]$
 
 ## 3-11
-$8 \times 5 \times \sin(65^\circ) = d \times \sqrt{8^2 + 5^2 - 2 \times 8 \times 5 \times \cos 65^\circ}$より、$d \fallingdotseq 4.88[Å]$
+$8 \times 5 \times \sin(65^\circ) = d \times \sqrt{8^2 + 5^2 - 2 \times 8 \times 5 \times \cos 65^\circ}$ leads to $d \fallingdotseq 4.88[Å]$
 
 $d = [(\frac{h}{a\sin\beta})^2 + (\frac{l}{c\sin\beta})^2 - \frac{2hl(\cos\beta)}{ac\sin^2\beta}]^{-\frac{1}{2}} \fallingdotseq 4.88[Å]$
